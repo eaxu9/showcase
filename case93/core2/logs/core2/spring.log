@@ -1,0 +1,42 @@
+2022-01-27 11:28:54.476  INFO 38624 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 38624 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 11:28:54.481  INFO 38624 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 11:28:56.064  INFO 38624 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.048 seconds (JVM running for 3.134)
+2022-01-27 11:35:04.255  INFO 40828 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 40828 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 11:35:04.264  INFO 40828 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 11:35:05.815  INFO 40828 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.011 seconds (JVM running for 3.111)
+2022-01-27 11:39:21.465  INFO 34904 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 34904 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 11:39:21.466  INFO 34904 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 11:39:23.016  INFO 34904 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.008 seconds (JVM running for 3.109)
+2022-01-27 15:39:14.752  INFO 46892 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 46892 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 15:39:14.752  INFO 46892 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 15:39:16.362  INFO 46892 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.098 seconds (JVM running for 3.304)
+2022-01-27 15:39:41.906  INFO 45656 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 45656 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 15:39:41.907  INFO 45656 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 15:39:43.543  INFO 45656 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.104 seconds (JVM running for 3.199)
+2022-01-27 15:40:25.191  INFO 4060 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 4060 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 15:40:25.192  INFO 4060 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 15:40:26.849  INFO 4060 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.119 seconds (JVM running for 3.23)
+2022-01-27 15:41:08.297  INFO 43420 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 43420 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 15:41:08.298  INFO 43420 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 15:41:09.830  INFO 43420 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.008 seconds (JVM running for 3.091)
+2022-01-27 15:51:21.156  INFO 50956 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 50956 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 15:51:21.157  INFO 50956 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 15:51:23.292  INFO 50956 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.763 seconds (JVM running for 4.283)
+2022-01-27 15:51:41.291  INFO 51144 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 51144 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 15:51:41.293  INFO 51144 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 15:51:42.882  INFO 51144 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.058 seconds (JVM running for 3.242)
+2022-01-27 15:59:17.585  INFO 49968 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 49968 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 15:59:17.586  INFO 49968 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 15:59:19.176  INFO 49968 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.055 seconds (JVM running for 3.164)
+2022-01-27 16:00:19.917  INFO 49592 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 49592 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 16:00:19.918  INFO 49592 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 16:00:21.448  INFO 49592 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.003 seconds (JVM running for 3.233)
+2022-01-27 16:00:48.438  INFO 47808 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 47808 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 16:00:48.439  INFO 47808 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 16:00:50.061  INFO 47808 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.08 seconds (JVM running for 3.645)
+2022-01-27 16:03:46.360  INFO 4544 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 4544 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 16:03:46.360  INFO 4544 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 16:03:47.915  INFO 4544 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.046 seconds (JVM running for 3.158)
+2022-01-27 16:23:24.319  INFO 3420 --- [main] c.h.s.core2.Core2ApplicationTests        : Starting Core2ApplicationTests on LAPTOP-LLI4LM60 with PID 3420 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core2)
+2022-01-27 16:23:24.320  INFO 3420 --- [main] c.h.s.core2.Core2ApplicationTests        : No active profile set, falling back to default profiles: default
+2022-01-27 16:23:26.017  INFO 3420 --- [main] c.h.s.core2.Core2ApplicationTests        : Started Core2ApplicationTests in 2.214 seconds (JVM running for 3.347)

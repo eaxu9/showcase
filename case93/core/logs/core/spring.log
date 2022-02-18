@@ -1,0 +1,42 @@
+2022-01-27 11:28:48.282  INFO 39088 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 39088 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 11:28:48.286  INFO 39088 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 11:28:50.359  INFO 39088 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.544 seconds (JVM running for 3.694)
+2022-01-27 11:34:58.752  INFO 34548 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 34548 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 11:34:58.762  INFO 34548 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 11:35:00.349  INFO 34548 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.039 seconds (JVM running for 3.143)
+2022-01-27 11:39:15.967  INFO 31640 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 31640 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 11:39:15.968  INFO 31640 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 11:39:17.485  INFO 31640 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 1.961 seconds (JVM running for 3.058)
+2022-01-27 15:39:06.058  INFO 48244 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 48244 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 15:39:06.059  INFO 48244 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 15:39:07.657  INFO 48244 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.092 seconds (JVM running for 3.196)
+2022-01-27 15:39:36.281  INFO 46516 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 46516 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 15:39:36.282  INFO 46516 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 15:39:37.977  INFO 46516 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.185 seconds (JVM running for 3.283)
+2022-01-27 15:40:19.556  INFO 48616 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 48616 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 15:40:19.557  INFO 48616 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 15:40:21.173  INFO 48616 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.128 seconds (JVM running for 3.246)
+2022-01-27 15:41:02.838  INFO 42320 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 42320 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 15:41:02.839  INFO 42320 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 15:41:04.387  INFO 42320 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.024 seconds (JVM running for 3.133)
+2022-01-27 15:51:14.806  INFO 35736 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 35736 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 15:51:14.807  INFO 35736 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 15:51:16.520  INFO 35736 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.245 seconds (JVM running for 3.551)
+2022-01-27 15:51:35.564  INFO 49836 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 49836 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 15:51:35.565  INFO 49836 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 15:51:37.128  INFO 49836 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.041 seconds (JVM running for 3.185)
+2022-01-27 15:59:11.874  INFO 49316 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 49316 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 15:59:11.875  INFO 49316 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 15:59:13.526  INFO 49316 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.118 seconds (JVM running for 3.304)
+2022-01-27 16:00:14.206  INFO 46680 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 46680 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 16:00:14.207  INFO 46680 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 16:00:15.859  INFO 46680 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.097 seconds (JVM running for 3.437)
+2022-01-27 16:00:41.705  INFO 50208 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 50208 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 16:00:41.707  INFO 50208 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 16:00:43.423  INFO 50208 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.235 seconds (JVM running for 3.489)
+2022-01-27 16:03:40.699  INFO 45768 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 45768 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 16:03:40.700  INFO 45768 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 16:03:42.294  INFO 45768 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.07 seconds (JVM running for 3.217)
+2022-01-27 16:23:18.386  INFO 46404 --- [main] c.h.showcase.core.CoreApplicationTests   : Starting CoreApplicationTests on LAPTOP-LLI4LM60 with PID 46404 (started by eason in D:\eaxu\GIT164\HX_HLB_BYH\showcase\case93\core)
+2022-01-27 16:23:18.388  INFO 46404 --- [main] c.h.showcase.core.CoreApplicationTests   : No active profile set, falling back to default profiles: default
+2022-01-27 16:23:20.199  INFO 46404 --- [main] c.h.showcase.core.CoreApplicationTests   : Started CoreApplicationTests in 2.328 seconds (JVM running for 3.576)
